@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekcoderraj&label=Profile%20views&color=0e75b6&style=flat" alt="geekcoderraj" /> </p>
 
-- 🌱 I’m currently learning **Blockchain technology**
+- 🌱 Currently learning **Blockchain technology**
 
 - 💬 Ask me about **DSA , C/C++ , Node, Express , MongoDB , Blockchain Technology**
 
