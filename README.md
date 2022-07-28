@@ -18,8 +18,6 @@
 <a href="https://twitter.com/sri_akhilraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sri_akhilraj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akhil-raj-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-raj-srivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/sri.akhilraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri.akhilraj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@akhil_raj_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@akhil_raj_14" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user9131d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user9131d" height="30" width="40" /></a>
 <a href="https://discord.gg/AKHIL#0627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AKHIL#0627" height="30" width="40" /></a>
 </p>
 
