@@ -5,13 +5,13 @@
 
 - 🌱 Currently learning **Blockchain technology**
 
-- 💬 Ask me about **DSA , C/C++ , Node, Express , MongoDB , Blockchain Technology**
+- 💬 Ask me about   <b>  C/C++ , Node, Express , MongoDB ,Solidity, Blockchain Technology</b>
 
 - 📫 How to reach me **akhilrajsrivastava.lko@gmail.com**
 
 - 📄 <a href="https://drive.google.com/file/d/1d034yYF0bOhmgrjvFZFwHKGbue3llzCT/view?usp=sharing" target="blank">RESUME</a>
 
-- ⚡ Fun fact **I love Cooking and Music**
+- ⚡ Fun fact **I love Cooking and listening Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
