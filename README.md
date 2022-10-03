@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **akhilrajsrivastava.lko@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1d034yYF0bOhmgrjvFZFwHKGbue3llzCT/view?usp=sharing" target="blank">RESUME</a>
+- 📄 <a href="https://drive.google.com/file/d/14nLRAV_xB-ZQg4AN5AXrE-zjK0tSImSy/view?usp=sharing" target="blank">RESUME</a>
 
 - ⚡ Fun fact **I love Cooking and listening Music**
 
